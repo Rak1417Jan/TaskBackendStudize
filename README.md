@@ -22,4 +22,3 @@ The task is divided into the following parts:
 - Using a cloud database with NoSQL, such as Firebase or Supabase, is highly recommended.
 - The entry level API code is shared in the repository , refer that for creating the API call function and you see "hello" written you have to basically pass the user SOCA responses instead of "hello" for each entry.
 
-If you have any doubts, feel free to connect on WhatsApp at +91-9571115500.
